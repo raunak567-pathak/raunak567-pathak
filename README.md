@@ -1,6 +1,9 @@
 # 👨‍💻 About Me
 
 🌱 Exploring **DSA, System Design, DevOps**  
+
+🎯 Goal: Crafting scalable & high-performance applications
+
 ✨ Motto: *“If it’s been done, it can be done — nothing is truly impossible.”*
 
 ---
