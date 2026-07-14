@@ -1,7 +1,6 @@
 # 👨‍💻 About Me
 
 🌱 Exploring DSA, System Design, DevOps
-
 ✨ Motto: “If it’s been done, it can be done — nothing is truly impossible.”
 
 ---
@@ -31,13 +30,11 @@
 
 ## 💻 Coding Profiles & Stats
 
-
 <p align="left">
   <a href="https://leetcode.com/https://leetcode.com/u/Raunak-Pathak/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
-
 
 ---
 
