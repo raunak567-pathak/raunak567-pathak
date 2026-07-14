@@ -17,9 +17,12 @@
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
 </p>
 
-<blockquote>
-  <b>Core Java Concepts:</b> OOPs • Collection Framework • Multithreading
-</blockquote>
+### ☕ Core Java Concepts
+<p align="left">
+  <img src="https://img.shields.io/badge/OOPs-007396?style=for-the-badge&logo=java&logoColor=white" alt="OOPs" />&nbsp;
+  <img src="https://img.shields.io/badge/Collections_Framework-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" alt="Collections" />&nbsp;
+  <img src="https://img.shields.io/badge/Multithreading-000000?style=for-the-badge&logo=processwire&logoColor=white" alt="Multithreading" />
+</p>
 
 ### 🛠️ DevOps, Tools & Testing
 <p align="left">
@@ -39,9 +42,11 @@
 </p>
 
 ### 📚 Computer Science Fundamentals
-<blockquote>
-  🖥️ <b>Operating Systems (OS)</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🗄️ <b>DBMS</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 <b>Computer Networks (CN)</b>
-</blockquote>
+<p align="left">
+  <img src="https://img.shields.io/badge/Operating_Systems-0052CC?style=for-the-badge&logo=linux&logoColor=white" alt="OS" />&nbsp;
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="DBMS" />&nbsp;
+  <img src="https://img.shields.io/badge/Computer_Networks-FF6C37?style=for-the-badge&logo=wireshark&logoColor=white" alt="CN" />
+</p>
 
 ## 💻 Coding Profiles & Stats
 
