@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-🌱 Exploring **DSA, System Design, DevOps**
+🌱 Exploring DSA, System Design, DevOps
 
 ✨ Motto: “If it’s been done, it can be done — nothing is truly impossible.”
 
@@ -24,30 +24,39 @@
 ### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&技巧logoColor=white" alt="PostgreSQL" />
 </p>
+
+---
+
+## 💻 Coding Profiles & Stats
+
+
+<p align="left">
+  <a href="https://leetcode.com/https://leetcode.com/u/Raunak-Pathak/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=raunak567-pathak&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark" alt="Trophies" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Langs" height="180" />
 </p>
+
 ---
 
 ## 🔥 Streaks & Contribution
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak567-pathak&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
 </p>
-
----
-
