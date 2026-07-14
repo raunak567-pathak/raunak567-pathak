@@ -31,8 +31,8 @@
 ## 💻 Coding Profiles & Stats
 
 <p align="left">
-  <a href="https://leetcode.com/https://leetcode.com/u/Raunak-Pathak/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/Raunak-Pathak/?theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Raunak-Pathak/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Raunak-Pathak?theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
