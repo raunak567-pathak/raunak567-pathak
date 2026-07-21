@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/Computer_Networks-FF6C37?style=for-the-badge&logo=wireshark&logoColor=white" alt="CN" />
 </p>
 
+---
+
 ## 💻 Coding Profiles & Stats
 
 <p align="left">
@@ -58,6 +60,7 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=raunak567-pathak&theme=onedark" alt="Trophies" />
 </p>
@@ -65,6 +68,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=raunak567-pathak&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak567-pathak&layout=compact&theme=dark" alt="Top Langs" height="180" />
@@ -73,6 +77,12 @@
 ---
 
 ## 🔥 Streaks & Contribution
+
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=raunak567-pathak&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Streak_Reset-Every_00:00_UTC-orange?style=for-the-badge&logo=github&logoColor=white" alt="Streak Reset Time" />
+  <img src="https://img.shields.io/badge/Daily_Goal-1+_Commit_Required-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Daily Goal" />
 </p>
