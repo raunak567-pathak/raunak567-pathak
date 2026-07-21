@@ -66,7 +66,7 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raunak567-pathak&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=raunak567-pathak&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak567-pathak&layout=compact&theme=dark" alt="Top Langs" height="180" />
 </p>
 
@@ -74,5 +74,5 @@
 
 ## 🔥 Streaks & Contribution
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak567-pathak&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=raunak567-pathak&theme=dark" alt="GitHub Streak" />
 </p>
