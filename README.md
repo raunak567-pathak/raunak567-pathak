@@ -83,7 +83,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak567-pathak&theme=react-dark&hide_border=true&area=true" alt="Daily Activity Graph" width="100%" />
 </p>
 
-### 🟩 Contribution Calendar View
-<p align="left">
-  <img src="https://ghchart.rshah.org/raunak567-pathak" alt="Raunak's Daily Green Streak" width="100%" />
-</p>
+
