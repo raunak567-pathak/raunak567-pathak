@@ -67,16 +67,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raunak567-pathak&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak567-pathak&layout=compact&theme=dark" alt="Top Langs" height="180" />
-</p>
-
----
-
-## 🔥 Streaks & Contribution
+## 🔥 Streaks & Daily Contribution
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=raunak567-pathak&theme=dark" alt="GitHub Streak" />
@@ -85,4 +76,14 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Streak_Reset-Every_00:00_UTC-orange?style=for-the-badge&logo=github&logoColor=white" alt="Streak Reset Time" />
   <img src="https://img.shields.io/badge/Daily_Goal-1+_Commit_Required-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Daily Goal" />
+</p>
+
+### 📈 Daily Activity Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak567-pathak&theme=react-dark&hide_border=true&area=true" alt="Daily Activity Graph" width="100%" />
+</p>
+
+### 🟩 Contribution Calendar View
+<p align="left">
+  <img src="https://ghchart.rshah.org/raunak567-pathak" alt="Raunak's Daily Green Streak" width="100%" />
 </p>
