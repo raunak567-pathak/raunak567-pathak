@@ -62,7 +62,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=raunak567-pathak&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raunak-Pathak&theme=onedark" alt="Trophies" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ## 🔥 Streaks & Daily Contribution
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=raunak567-pathak&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Raunak-Pathak&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="left">
@@ -80,7 +80,6 @@
 
 ### 📈 Daily Activity Graph
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak567-pathak&theme=react-dark&hide_border=true&area=true" alt="Daily Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunak-Pathak&theme=react-dark&hide_border=true&area=true" alt="Daily Activity Graph" width="100%" />
 </p>
-
 
