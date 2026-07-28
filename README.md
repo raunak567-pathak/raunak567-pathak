@@ -53,7 +53,7 @@
 
 <p align="left">
   <a href="https://leetcode.com/u/Raunak-Pathak/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Raunak-Pathak?theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Raunak-Pathak?theme=dark" alt="LeetCode Stats" style="max-width:100%;" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raunak-Pathak&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raunak-Pathak&theme=onedark" alt="Trophies" style="max-width:100%;" />
 </p>
 
 ---
@@ -70,16 +70,14 @@
 ## 🔥 Streaks & Daily Contribution
 
 <p align="center">
-  <!-- Dynamic GitHub Streak Card -->
-  <a href="https://github.com/Raunak-Pathak">
-    <img src="https://streak-stats.demolab.com/?user=Raunak-Pathak&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
+  <a href="https://github.com/Raunak-Pathak" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak-Pathak&theme=dark&hide_border=true" alt="GitHub Streak" width="85%" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Daily Commit Target Badges -->
-  <img src="https://img.shields.io/badge/Streak_Reset-Every_00:00_UTC-orange?style=for-the-badge&logo=github&logoColor=white" alt="Streak Reset Time" />
-  <img src="https://img.shields.io/badge/Daily_Goal-1+_Commit_Required-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Daily Goal" />
+  <img src="https://img.shields.io/badge/Streak--Reset-Every--00:00--UTC-orange?style=for-the-badge&logo=github&logoColor=white" alt="Streak Reset Time" />
+  <img src="https://img.shields.io/badge/Daily--Goal-1%2B--Commit--Required-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Daily Goal" />
 </p>
 
 ### 📈 Contribution Heatmap
