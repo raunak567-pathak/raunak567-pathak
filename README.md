@@ -59,21 +59,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raunak-Pathak&theme=onedark" alt="Trophies" style="max-width:100%;" />
-</p>
-
----
-
-## 📈 Activity & Contributions
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streak_Reset-Every_00:00_UTC-orange?style=for-the-badge&logo=github&logoColor=white" alt="Streak Reset Time" />
-  <img src="https://img.shields.io/badge/Daily_Goal-1+_Commit_Required-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="Daily Goal" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunak-Pathak&theme=react-dark&hide_border=true&area=true" alt="Daily Activity Graph" width="100%" />
 </p>
